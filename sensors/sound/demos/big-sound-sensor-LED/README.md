@@ -1,9 +1,9 @@
-# Demo-2 
+# Sound Sensor - LED
 - This demo-2 demonstrate sample arduino project that turn on/off LED as we clap.
 
 # Getting Started
 ## Requirements
-1. Arduino IDE setup. [know more](../../setup/IDE/)
+1. Arduino IDE setup. [know more](../../../../setup/IDE/)
 2. Arduino Uno microcontroller board.
 
 ## Circuit
