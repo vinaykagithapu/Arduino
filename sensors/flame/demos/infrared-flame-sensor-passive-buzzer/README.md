@@ -1,4 +1,4 @@
-# Sound Sensor - LED
+# IR Flame Sensor - Passive Buzzer
 - This demonstration showcases a sample Arduino project designed to trigger alarms when a flame is detected at a certain distance.
 
 # Getting Started
